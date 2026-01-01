@@ -1,0 +1,2 @@
+# JavaScript-Calculator
+A simple calculator built using HTML, CSS, and JavaScript to perform basic mathematical operations.
